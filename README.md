@@ -27,3 +27,8 @@
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momika233&&layout=compact&theme=blue-green" width="250px" height="250px"></td>
  </tr></table></center>
 -->
+### Hi there 👋
+### GitHub Stats
+![zu1k's github stats](https://github-readme-stats.vercel.app/api?username=momika233&count_private=true&show_icons=true)
+
+![](https://github-profile-trophy.vercel.app/?username=momika233&column=4&margin-w=8&margin-h=6)
