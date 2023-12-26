@@ -5,7 +5,7 @@
 <h4 align="center">🤟🏻 Hi, I'm momika...</h4> 
 <p align="center">
   </a>
-  <a href="[https://twitter.com/sec715](https://twitter.com/momika233)">
+  <a href="[https://twitter.com/momika233](https://twitter.com/momika233)">
     <img src="https://img.shields.io/twitter/follow/momika233">
  </a>
   <a href="https://github.com/momika233">
