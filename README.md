@@ -28,7 +28,6 @@
  </tr></table></center>
 -->
 ### Hi there 👋
-### GitHub Stats
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
 <img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
  
